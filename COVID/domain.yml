@@ -1,0 +1,49 @@
+intents:
+  - greet
+  - sick
+  - goodbye
+  - affirm
+  - deny
+  - sintoms_priority
+  - sintoms_mild
+  - sintoms_negative
+  - who
+  
+
+responses:
+  utter_greet:
+  - text: "Hola! Puedo guiarte sobre sintomas e información relacionada al COVID-19"
+
+  utter_question_sintoms:
+  - text: "Cuéntame que sintomas estas sintiendo?"
+
+  utter_covid_contact:
+  - text: "Ha tenido contacto con algún caso de COVID-19 los últimos 15 dias?"
+
+  utter_question_region:
+  - text: "En que ciudad te encuentras ubicado?"
+
+  utter_fiebre:
+  - text: "Ha presentado cuadro de fiebre superior a 38 grado?"
+
+  utter_country_contact:
+  - text: "Ha tenido contacto con alguna persona proviente de Europa, Asia o Ecuador?"
+
+  utter_high_priority:
+  - text: "High Priority. Atento a tus síntomas, llama al 123 inmediatamente"
+
+  utter_mild_priority:
+  - text: "Mild priority. Quédate en casa, llama al 123 para reportar tus sintomas"
+
+  utter_not_emergency:
+  - text: "Low priority. Pon cuidado a tus sintomas y quedate en casa"
+
+  utter_goodbye:
+  - text: "Adios, que estes bien"
+
+  utter_iamabot:
+  - text: "Soy un boot entrenado para guiarte sobre el nuevo COVID."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
