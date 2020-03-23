@@ -22,6 +22,12 @@
 - me muero
 - estoy maluco
 - me siento maluco
+- estuve en contacto con alguien infectado
+- vi a alguien con el virus
+- me vi con alguien infectado
+- estuve en contacto con un infectado
+- me contagie de coronavirus
+- cogi el corona virus
 
 ## intent:goodbye
 - chao
@@ -29,13 +35,19 @@
 - adios
 - adios, gracias
 - chao, muchas gracias
+- feliz noche
+- gracias buenas noches
 
 ## intent:affirm
 - si
 - si, claro
 - si señor
-- correct
+- correcto
 - Ok
+- si por favor
+- dale 
+- de una 
+-
 
 ## intent:deny
 - no
@@ -74,3 +86,8 @@
 - mareos
 - me duele la cabeza
 - estoy mareado
+- no he tenido fiebre
+
+## intent:posible_case
+
+- 

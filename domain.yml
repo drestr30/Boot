@@ -15,7 +15,7 @@ responses:
   utter_greet:
   - text: Hola! Puedo guiarte sobre sintomas e información relacionada al COVID-19
   utter_question_sintoms:
-  - text: Cuéntame que sintomas estas sintiendo?
+  - text: Cuéntame los sintomas que estes experimentando?
   utter_covid_contact:
   - text: Ha tenido contacto con algún caso de COVID-19 los últimos 15 dias?
   utter_question_region:
@@ -30,7 +30,7 @@ responses:
   utter_mild_priority:
   - text: Mild priority. Quédate en casa, llama al 123 para reportar tus sintomas
   utter_not_emergency:
-  - text: Low priority. Pon cuidado a tus sintomas y quedate en casa
+  - text: Low priority. Quedate en casa y contacta con un especialista en caso de que tus sintomas empeoren.
   utter_goodbye:
   - text: Adios, que estes bien
   utter_iamabot:
