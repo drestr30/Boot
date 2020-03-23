@@ -26,7 +26,7 @@
 
 ## Covid contact positive
   - utter_covid_contact
-*positive
+*affirm
   - utter_fiebre
 
 ## Covid contact negative
