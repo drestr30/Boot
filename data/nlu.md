@@ -45,15 +45,14 @@
 - correcto
 - Ok
 - si por favor
-- dale 
-- de una 
+- dale
+- de una
 - una persona
-- una vez 
+- una vez
 - algunas veces
 - a Estados Unidos
 - estuve en europa
 - estuve en Asia
- 
 
 ## intent:deny
 - no
@@ -84,6 +83,7 @@
 - me duele la garganta
 - tengo gripa
 - Dolor en el cuerpo
+- Tengo congestión nasal y debilidad al moverme
 
 ## intent:sintoms_negative
 - dolor de cabeza
@@ -93,3 +93,5 @@
 - me duele la cabeza
 - estoy mareado
 - no he tenido fiebre
+- Tengo ganglios
+- Congestión nasal
