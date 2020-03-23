@@ -47,7 +47,13 @@
 - si por favor
 - dale 
 - de una 
--
+- una persona
+- una vez 
+- algunas veces
+- a Estados Unidos
+- estuve en europa
+- estuve en Asia
+ 
 
 ## intent:deny
 - no
@@ -87,7 +93,3 @@
 - me duele la cabeza
 - estoy mareado
 - no he tenido fiebre
-
-## intent:posible_case
-
-- 
