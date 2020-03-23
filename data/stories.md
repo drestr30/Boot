@@ -28,7 +28,6 @@
 *affirm
  - utter_high_priority
 
-
 ## country contact positive
 *sintoms_negative
   - utter_country_contact
@@ -47,6 +46,8 @@
 * deny
   -utter_country_contact
 * deny
+ -utter_fiebre
+* deny
   - utter_not_emergency
 
 ## say goodbye path
@@ -56,3 +57,9 @@
 ## who is path
 * who
   -utter_iamabot
+
+## greet path
+* greet
+  - utter_greet
+* affirm
+  - utter_question_sintoms
