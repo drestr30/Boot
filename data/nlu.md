@@ -18,24 +18,24 @@
 - me siento mal
 - creo que tengo corona virus
 - tengo corona virus
-- estoy mal 
+- estoy mal
 - me muero
 - estoy maluco
-- me siento maluco 
+- me siento maluco
 
 ## intent:goodbye
 - chao
 - gracias, hasta luego
 - adios
-- adios, gracias 
+- adios, gracias
 - chao, muchas gracias
 
 ## intent:affirm
 - si
 - si, claro
-- si
 - si señor
 - correct
+- Ok
 
 ## intent:deny
 - no
@@ -44,7 +44,6 @@
 - don't like that
 - no way
 - not really
-
 
 ## intent:sintoms_priority
 - tengo fiebre y dificultad para respirar
@@ -66,12 +65,12 @@
 - no respiro bien
 - me duele la garganta
 - tengo gripa
+- Dolor en el cuerpo
 
 ## intent:sintoms_negative
 - dolor de cabeza
 - tengo nauseas
 - dolor de cabeza, nauseas
-- mareos 
+- mareos
 - me duele la cabeza
-- estoy mareado 
-
+- estoy mareado
