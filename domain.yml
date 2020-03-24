@@ -1,6 +1,7 @@
 session_config:
   session_expiration_time: 60.0
   carry_over_slots_to_new_session: true
+
 intents:
 - greet
 - sick
@@ -11,6 +12,9 @@ intents:
 - sintoms_mild
 - sintoms_negative
 - who
+- question_care
+- question_hands
+
 responses:
   utter_greet:
   - text: Hola! Puedo guiarte sobre sintomas e información relacionada al COVID-19
@@ -35,8 +39,13 @@ responses:
   - text: Adios, que estes bien
   utter_iamabot:
   - text: Soy un boot entrenado para guiarte sobre el nuevo COVID.
+  utter_answer_care:
+  - text: Quedate en casa, lávate las manos con jabón frecuentemente, conserva tus distancias de las demás personas y pon atención a la aparición de sintomas.
+  utter_answer_hands:
+  - text: lavarse las manos es importante porque quita el virus... y debe hacer durante 8 seg.. etc. 
   utter_unclear:
   - text: Soy un boot entrenado para guiarte sobre sintomas relacionados al virus COVID-19.
+ 
 actions:
 - utter_greet
 - utter_question_sintoms
@@ -49,3 +58,5 @@ actions:
 - utter_not_emergency
 - utter_goodbye
 - utter_iamabot
+- utter_answer_care
+- utter_answer_hands

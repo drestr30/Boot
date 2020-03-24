@@ -112,3 +112,23 @@
 - no he tenido fiebre
 - Tengo ganglios
 - Congestión nasal
+
+## intent:question_care
+- como debo cuidarme?
+- que debo hacer para no contagiarme
+- como me cuido
+- como me cuido en casa
+- que hacer para no contagiarse
+- que cuidados debo tener
+- cuidados en casa
+- como me protejo del corona virus
+- como protegerme 
+- como hago para no contagiarme
+
+## intent:question_hands
+- porque lavarse las manos?
+- como debo lavarme las manos?
+- por que es importante lavarse las manos 
+- como me lavo las manos?
+- como es el lavado de manos?
+- lavarse las manos es importante

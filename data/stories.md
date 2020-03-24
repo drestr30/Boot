@@ -97,14 +97,14 @@
  - utter_covid_contact
 * deny
  - utter_country_contact
-*affirm
+* affirm
  - utter_fiebre
 * affirm
  - utter_high_priority
 
 ## fever medium priority
  - utter_fiebre
-*deny
+* deny
  - utter_mild_priority
 
 ## sick path negative
@@ -118,6 +118,16 @@
   - utter_country_contact
 * deny
   - utter_not_emergency
+
+#### Q&A paths
+
+## question self-care
+* question_care
+  - utter_answer_care
+
+## question hand wash
+* question_hands
+  - utter_answer_hands
 
 ## say goodbye path
 * goodbye
