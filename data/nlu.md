@@ -37,6 +37,10 @@
 - chao, muchas gracias
 - feliz noche
 - gracias buenas noches
+- muchas gracias 
+- entendido gracias 
+- esta bien, muchas gracias
+- entiendo adios
 
 ## intent:affirm
 - si
@@ -53,6 +57,15 @@
 - a Estados Unidos
 - estuve en europa
 - estuve en Asia
+- probablemente
+- creo que si 
+- pienso que si
+- tal vez 
+- creo 
+- ok, gracias
+- okey, gracias 
+- si gracias
+- esta bien, por favor
 
 ## intent:deny
 - no
@@ -61,6 +74,10 @@
 - don't like that
 - no way
 - not really
+- no creo
+- no estoy muy seguro 
+- no creería
+- probablemente no
 
 ## intent:sintoms_priority
 - tengo fiebre y dificultad para respirar

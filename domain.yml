@@ -35,6 +35,8 @@ responses:
   - text: Adios, que estes bien
   utter_iamabot:
   - text: Soy un boot entrenado para guiarte sobre el nuevo COVID.
+  utter_unclear:
+  - text: Soy un boot entrenado para guiarte sobre sintomas relacionados al virus COVID-19.
 actions:
 - utter_greet
 - utter_question_sintoms
