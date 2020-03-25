@@ -3,4 +3,6 @@ Env/
 Rasa/
 .DS_Store
 models/
+__pycache__/
+
 
