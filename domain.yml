@@ -1,3 +1,7 @@
+session_config:
+  session_expiration_time: 60.0
+  carry_over_slots_to_new_session: true
+
 intents:
   - greet
   - sick
@@ -121,5 +125,4 @@ actions:
   - utter_answer_vulnerable
   - utter_unclear
 
-session_expiration_time: 60
-carry_over_slots_to_new_session: true
+
