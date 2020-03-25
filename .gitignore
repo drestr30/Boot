@@ -1,16 +1,8 @@
-<<<<<<< HEAD
+
 # Don't track content of these folders
 Env/
 Rasa/
 .DS_Store
 models/
 __pycache__/
-
-
-=======
-.DS_Store
-Rasa/
-data/.DS_Store
-env/
-models/
->>>>>>> QA_branch
+.idea/
