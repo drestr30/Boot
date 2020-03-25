@@ -5,6 +5,13 @@
 - buenos dias
 - buenas noches
 - hola, puedes ayudarme
+- hey, que masa
+- ey como vas
+- oe que tal
+- tengo dudas
+- tengo una duda
+- necesito saber algo
+- una consultica
 
 ## intent:who
 - quien eres?
@@ -28,6 +35,7 @@
 - estuve en contacto con un infectado
 - me contagie de coronavirus
 - cogi el corona virus
+
 
 ## intent:goodbye
 - chao
@@ -95,7 +103,7 @@
 ## intent:sintoms_mild
 - tengo dolor de garganta
 - dificultad para respirar
-- tos
+- tos seca
 - no respiro bien
 - me duele la garganta
 - tengo gripa
@@ -104,6 +112,7 @@
 
 ## intent:sintoms_negative
 - dolor de cabeza
+- mocos
 - tengo nauseas
 - dolor de cabeza, nauseas
 - mareos
@@ -112,6 +121,9 @@
 - no he tenido fiebre
 - Tengo ganglios
 - Congestión nasal
+- ningún sintomas
+- ninguno 
+- nada, estoy bien
 
 ## intent:question_care
 - como debo cuidarme?
@@ -124,6 +136,8 @@
 - como me protejo del corona virus
 - como protegerme 
 - como hago para no contagiarme
+- como evito contagiarme del virus 
+- como prevengo el contagio
 
 ## intent:question_hands
 - porque lavarse las manos?
@@ -132,3 +146,89 @@
 - como me lavo las manos?
 - como es el lavado de manos?
 - lavarse las manos es importante
+
+## intent:question_covid
+- que es el corona virus?
+- cual es el virus
+
+## intent:question_covid_spread
+- como se propaga el virus?
+- como se contagia el virus?
+- de que forma se propaga?
+- como se propaga?
+- como se contagia?
+- como se contagia el corona virus?
+- como se transmite?
+
+## intent:question_covid_sintoms
+- cuales son los sintomas del virus?
+- cuales son los sintomas
+- que sintomas da?
+- que sintomas da el corona virus?
+- cuando aparecen los sintomas?
+- como son los sintomas?
+- cuanto tardan en aparecer?
+- cuando veo sintomas? 
+- como se si tengo el virus?
+
+## intent:question_sintoms_duration
+- cuanto duran los sintomas?
+- cuanto tiempo estaré enfermo?
+- cuanto tiempo voy a estar enferma?
+
+## intent:question_mask
+- debo usar mascara
+- es importante el tapaboca
+- porque debo usar tapabocas
+- hay que usar mascara?
+- porque hay que usar mascarilla?
+- tengo que usar tapa bocas?
+
+## intent:question_pet
+- puedo infectar a mi mascota?
+- mi perro puede tener el virus?
+- mi gato puede tener coronavirus?
+- mi mascota se puede contagiar? 
+- puedo contagiar mi perro? 
+- se puede enfermar mi perro? 
+- le puede dar a mi gato? 
+- me puede contagiar un perro?
+- puede un animal contagiarme?
+
+## intent:question_pandemia
+- estamos en una pandemia?
+- que es una pandemia?
+- estamos en pandemia?
+- esto es una pandemia? 
+
+## intent:fear
+- tengo miedo
+- tengo mucho miedo
+- estoy asustado
+- estoy confundido 
+- que miedo
+- tengo susto
+- debería tener miedo?
+- puedo morir? 
+- voy a morir
+- morire?
+
+## intent:question_superfice
+- se queda en la ropa?
+- esta en la ropa?
+- me puedo contagiar con objetos?
+- envios de la china
+- me contagio con un envio? 
+- el virus esta en las cosas? 
+- superficie infectada
+
+## intent:question_vulnerable
+- quienes son mas vulnerables?
+- quien se debe cuidar mas?
+- mayores afectados?
+- a quienes afecta mas?
+
+
+
+
+
