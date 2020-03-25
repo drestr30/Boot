@@ -5,8 +5,6 @@
 - buenos dias
 - buenas noches
 - hola, puedes ayudarme
-<<<<<<< HEAD
-=======
 - hey, que masa
 - ey como vas
 - oe que tal
@@ -14,7 +12,6 @@
 - tengo una duda
 - necesito saber algo
 - una consultica
->>>>>>> QA_branch
 
 ## intent:who
 - quien eres?
@@ -39,10 +36,6 @@
 - me contagie de coronavirus
 - cogi el corona virus
 
-<<<<<<< HEAD
-=======
-
->>>>>>> QA_branch
 ## intent:goodbye
 - chao
 - gracias, hasta luego
@@ -109,11 +102,8 @@
 ## intent:sintoms_mild
 - tengo dolor de garganta
 - dificultad para respirar
-<<<<<<< HEAD
 - tos
-=======
 - tos seca
->>>>>>> QA_branch
 - no respiro bien
 - me duele la garganta
 - tengo gripa
@@ -122,10 +112,7 @@
 
 ## intent:sintoms_negative
 - dolor de cabeza
-<<<<<<< HEAD
-=======
 - mocos
->>>>>>> QA_branch
 - tengo nauseas
 - dolor de cabeza, nauseas
 - mareos
@@ -134,12 +121,9 @@
 - no he tenido fiebre
 - Tengo ganglios
 - Congestión nasal
-<<<<<<< HEAD
-=======
 - ningún sintomas
 - ninguno 
 - nada, estoy bien
->>>>>>> QA_branch
 
 ## intent:question_care
 - como debo cuidarme?
@@ -152,11 +136,8 @@
 - como me protejo del corona virus
 - como protegerme 
 - como hago para no contagiarme
-<<<<<<< HEAD
-=======
 - como evito contagiarme del virus 
 - como prevengo el contagio
->>>>>>> QA_branch
 
 ## intent:question_hands
 - porque lavarse las manos?
@@ -164,9 +145,6 @@
 - por que es importante lavarse las manos 
 - como me lavo las manos?
 - como es el lavado de manos?
-<<<<<<< HEAD
-- lavarse las manos es importante
-=======
 - lavarse las manos es importante
 
 ## intent:question_covid
@@ -249,9 +227,3 @@
 - quien se debe cuidar mas?
 - mayores afectados?
 - a quienes afecta mas?
-
-
-
-
-
->>>>>>> QA_branch

@@ -121,13 +121,10 @@
 
 #### Q&A paths
 
-<<<<<<< HEAD
-=======
 ## intent fear
 * fear 
  - utter_fear
 
->>>>>>> QA_branch
 ## question self-care
 * question_care
   - utter_answer_care
@@ -136,8 +133,6 @@
 * question_hands
   - utter_answer_hands
 
-<<<<<<< HEAD
-=======
 ## question covid
 * question_covid
   - utter_answer_covid
@@ -170,7 +165,6 @@
 * question_superfice
   -utter_answer_superfice
 
->>>>>>> QA_branch
 ## say goodbye path
 * goodbye
   - utter_goodbye

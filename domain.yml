@@ -1,25 +1,3 @@
-session_config:
-<<<<<<< HEAD
-  session_expiration_time: 60.0
-  carry_over_slots_to_new_session: true
-
-intents:
-- greet
-- sick
-- goodbye
-- affirm
-- deny
-- sintoms_priority
-- sintoms_mild
-- sintoms_negative
-- who
-- question_care
-- question_hands
-
-responses:
-  utter_greet:
-  - text: Hola! Puedo guiarte sobre sintomas e información relacionada al COVID-19
-=======
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
@@ -47,7 +25,6 @@ intents:
 responses:
   utter_greet:
   - text: Hola! Puedes hacerme preguntas o consultar sobre tus sintomas relacionados al nuevo coronavirus COVID-19. 
->>>>>>> QA_branch
   utter_question_sintoms:
   - text: Cuéntame los sintomas que estes experimentando?
   utter_covid_contact:
@@ -70,28 +47,6 @@ responses:
   utter_iamabot:
   - text: Soy un boot entrenado para guiarte sobre el nuevo COVID.
   utter_answer_care:
-<<<<<<< HEAD
-  - text: Quedate en casa, lávate las manos con jabón frecuentemente, conserva tus distancias de las demás personas y pon atención a la aparición de sintomas.
-  utter_answer_hands:
-  - text: lavarse las manos es importante porque quita el virus... y debe hacer durante 8 seg.. etc. 
-  utter_unclear:
-  - text: Soy un boot entrenado para guiarte sobre sintomas relacionados al virus COVID-19.
- 
-actions:
-- utter_greet
-- utter_question_sintoms
-- utter_covid_contact
-- utter_question_region
-- utter_fiebre
-- utter_country_contact
-- utter_high_priority
-- utter_mild_priority
-- utter_not_emergency
-- utter_goodbye
-- utter_iamabot
-- utter_answer_care
-- utter_answer_hands
-=======
   - text: lavarse las manos frecuentemente
 	- limpiar superficies
 	- evitar viajar
@@ -161,4 +116,4 @@ actions:
   - utter_answer_superfice
   - utter_answer_vulnerable
   - utter_unclear
->>>>>>> QA_branch
+
