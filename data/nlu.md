@@ -125,7 +125,7 @@
 - ninguno 
 - nada, estoy bien
 
-## intent:question_care
+## intent: qa/care
 - como debo cuidarme?
 - que debo hacer para no contagiarme
 - como me cuido
@@ -139,7 +139,7 @@
 - como evito contagiarme del virus 
 - como prevengo el contagio
 
-## intent:question_hands
+## intent: qa/hands
 - porque lavarse las manos?
 - como debo lavarme las manos?
 - por que es importante lavarse las manos 
@@ -147,11 +147,11 @@
 - como es el lavado de manos?
 - lavarse las manos es importante
 
-## intent:question_covid
+## intent: qa/covid
 - que es el corona virus?
 - cual es el virus
 
-## intent:question_covid_spread
+## intent: qa/covid_spread
 - como se propaga el virus?
 - como se contagia el virus?
 - de que forma se propaga?
@@ -160,7 +160,7 @@
 - como se contagia el corona virus?
 - como se transmite?
 
-## intent:question_covid_sintoms
+## intent: qa/covid_sintoms
 - cuales son los sintomas del virus?
 - cuales son los sintomas
 - que sintomas da?
@@ -171,12 +171,12 @@
 - cuando veo sintomas? 
 - como se si tengo el virus?
 
-## intent:question_sintoms_duration
+## intent: qa/covid_duration
 - cuanto duran los sintomas?
 - cuanto tiempo estaré enfermo?
 - cuanto tiempo voy a estar enferma?
 
-## intent:question_mask
+## intent: qa/mask
 - debo usar mascara
 - es importante el tapaboca
 - porque debo usar tapabocas
@@ -184,7 +184,7 @@
 - porque hay que usar mascarilla?
 - tengo que usar tapa bocas?
 
-## intent:question_pet
+## intent: qa/pet
 - puedo infectar a mi mascota?
 - mi perro puede tener el virus?
 - mi gato puede tener coronavirus?
@@ -195,13 +195,13 @@
 - me puede contagiar un perro?
 - puede un animal contagiarme?
 
-## intent:question_pandemia
+## intent: qa/pandemia
 - estamos en una pandemia?
 - que es una pandemia?
 - estamos en pandemia?
 - esto es una pandemia? 
 
-## intent:fear
+## intent: qa/fear
 - tengo miedo
 - tengo mucho miedo
 - estoy asustado
@@ -213,7 +213,7 @@
 - voy a morir
 - morire?
 
-## intent:question_superfice
+## intent: qa/superficie
 - se queda en la ropa?
 - esta en la ropa?
 - me puedo contagiar con objetos?
@@ -222,7 +222,7 @@
 - el virus esta en las cosas? 
 - superficie infectada
 
-## intent:question_vulnerable
+## intent: qa/vulnerable
 - quienes son mas vulnerables?
 - quien se debe cuidar mas?
 - mayores afectados?
